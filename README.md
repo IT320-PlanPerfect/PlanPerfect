@@ -8,7 +8,7 @@
 ## 📋 Overview
 
 **PlanPerfect** is a web-based event planning platform that connects users with trusted event service providers.  
-The platform simplifies vendor discovery, service booking, and budget management, providing a seamless and organized event planning experience.
+The platform simplifies vendor discovery and service booking, providing a seamless and organized event planning experience.
 
 This project was developed as part of a university course under the supervision of **Dr. Reem Algifary** at **King Saud University**.
 
@@ -18,9 +18,8 @@ This project was developed as part of a university course under the supervision 
 
 - Search and filter event vendors by category, location, and price.  
 - Book services directly through the platform.  
-- Manage event budgets with built-in tracking tools.  
 - View verified ratings and reviews from other users.  
-- Save favorite vendors for quick future access.  
+- Save favorite items for quick future access.  
 - Secure authentication for both users and vendors.  
 - Fully responsive design for desktop and mobile devices.
 
@@ -41,8 +40,7 @@ This project was developed as part of a university course under the supervision 
 - **User Registration & Login** — Create an account to access platform features.  
 - **Vendor Search & Filtering** — Browse vendors and apply filters based on your preferences.  
 - **Service Booking** — Securely book event services and manage bookings from your dashboard.  
-- **Review Submission** — Leave and read service reviews to enhance the vendor network.  
-- **Budget Management** — Track and control event-related expenses with ease.
+- **Review Submission** — Leave and read service reviews to enhance the vendor network.
 
 ---
 ## 👥 Team
