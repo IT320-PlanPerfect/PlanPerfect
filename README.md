@@ -1,31 +1,65 @@
-# PlanPerfect
+# 📅 PlanPerfect — Event Planning Platform
 
-## Overview
-**PlanPerfect** is a web-based event planning platform that connects users with trusted event service providers. The platform simplifies vendor discovery, booking, and budget management, offering a streamlined approach to event planning.
+**Date:** April 2025  
+**Tech:** React.js, Node.js, MongoDB
 
-## Features
-- Search and filter event vendors based on category, location, and price.
-- Book services directly through the platform.
-- Manage event budgets with built-in tracking tools.
-- View verified ratings and reviews from other users.
-- Save favorite vendors for quick access.
-- Secure authentication for both users and vendors.
-- Responsive design optimized for both desktop and mobile devices.
+---
 
-## Technologies Used
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (NoSQL)
-- **Hosting:** GitHub Pages (Frontend), Cloud Deployment for Backend
+## 📋 Overview
+
+**PlanPerfect** is a web-based event planning platform that connects users with trusted event service providers.  
+The platform simplifies vendor discovery, service booking, and budget management, providing a seamless and organized event planning experience.
+
+This project was developed as part of a university course under the supervision of **Dr. Reem Algifary** at **King Saud University**.
+
+---
+
+## 🌟 Key Features
+
+- 🔎 Search and filter event vendors by category, location, and price.  
+- 📝 Book services directly through the platform.  
+- 💰 Manage event budgets with built-in tracking tools.  
+- ⭐ View verified ratings and reviews from other users.  
+- ❤️ Save favorite vendors for quick future access.  
+- 🔒 Secure authentication for both users and vendors.  
+- 📱 Fully responsive design for desktop and mobile devices.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React.js, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (NoSQL)  
+- **Hosting:** GitHub Pages (Frontend), Cloud Hosting (Backend)  
 - **Project Management:** Jira
 
-## Usage
-- **User Registration & Login** – Create an account to access platform features.
-- **Search & Filter Vendors** – Browse available vendors and filter based on preferences.
-- **Book Services** – Securely book event services and manage your orders.
-- **Leave Reviews** – Share your experience with other users.
-- **Budget Management** – Track expenses for better financial planning.
+---
 
-## Contact
-For any inquiries or issues, please reach out via:
-Project repository, or Scrum Master 444200948@student.ksu.edu.sa 
+## 🚀 Usage Guide
+
+- **User Registration & Login** — Create an account to access platform features.  
+- **Vendor Search & Filtering** — Browse vendors and apply filters based on your preferences.  
+- **Service Booking** — Securely book event services and manage bookings from your dashboard.  
+- **Review Submission** — Leave and read service reviews to enhance the vendor network.  
+- **Budget Management** — Track and control event-related expenses with ease.
+
+---
+
+## 👥 Team
+
+- Najla Almazyad
+- Ghala Musallam
+- Jood Alkhrashi
+- Reuof Alanazi    
+- Tarfah Bin Moammar  
+
+
+---
+
+## 📬 Contact
+
+For any inquiries or technical support, please contact:  
+Scrum Master — Najla Almazyad | Najlaalmazyad@gmail.com
+
+---
