@@ -16,13 +16,13 @@ This project was developed as part of a university course under the supervision 
 
 ## 🌟 Key Features
 
-- 🔎 Search and filter event vendors by category, location, and price.  
-- 📝 Book services directly through the platform.  
-- 💰 Manage event budgets with built-in tracking tools.  
-- ⭐ View verified ratings and reviews from other users.  
-- ❤️ Save favorite vendors for quick future access.  
-- 🔒 Secure authentication for both users and vendors.  
-- 📱 Fully responsive design for desktop and mobile devices.
+- Search and filter event vendors by category, location, and price.  
+- Book services directly through the platform.  
+- Manage event budgets with built-in tracking tools.  
+- View verified ratings and reviews from other users.  
+- Save favorite vendors for quick future access.  
+- Secure authentication for both users and vendors.  
+- Fully responsive design for desktop and mobile devices.
 
 ---
 
@@ -45,14 +45,18 @@ This project was developed as part of a university course under the supervision 
 - **Budget Management** — Track and control event-related expenses with ease.
 
 ---
-
 ## 👥 Team
 
-- Najla Almazyad
+This project was developed by:
+
+- Najla Almazyad  
+- Jood AlKhrashi  
 - Ghala Musallam
-- Jood Alkhrashi
-- Reuof Alanazi    
+- Reuof Alanazi
 - Tarfah Bin Moammar  
+
+Under the supervision of **Dr. Reem Fahad Alqifari**,  
+**King Saud University**. 
 
 
 ---
