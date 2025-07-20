@@ -45,17 +45,11 @@ This project was developed as part of a university course under the supervision 
 ---
 ##📂 Project Files
 
-🎬 Project Demo  
-[Plan Perfect Demo](PlanePerfectDemo.MP4)
+[🖼️ Presentation.pptx](Presentation.pptx)
 
-🖼️ Project Presentation  
-[Plan PerfectPresentation.pptx](PlanPerfectPresentation.pptx)
-
-📝 Project Report  
-[Plan PerfectReport.pdf](PlanPerfectReport.pdf)
-
-📄 Website Pages  
-[Plan Perfect Website Pages](Website_Phase4)
+[📝 Report.pdf](Report.pdf)
+  
+[📄 Website Pages](WebsitePages.zip)
 
 ---
 ## 👥 Team
