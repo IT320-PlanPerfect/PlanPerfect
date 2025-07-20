@@ -46,10 +46,10 @@ This project was developed as part of a university course under the supervision 
 ## 📽️ Demo
 
 🎬 Project Demo  
-[Made_in_Saudi.MP4](./link)
+[PlanePerfect.MP4](./link)
 
 🖼️ Project Presentation  
-[Made_in_Saudi_Presentation.pdf](./PlanePerfectPresentation.pptx)
+[PlanePerfectPresentation.pptx](./PlanePerfectPresentation.pptx)
 
 ---
 ## 👥 Team
