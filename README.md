@@ -49,7 +49,7 @@ This project was developed as part of a university course under the supervision 
 [PlanePerfect.MP4](./link)
 
 🖼️ Project Presentation  
-[PlanePerfectPresentation.pptx](./PlanePerfectPresentation.pptx)
+[PlanePerfectPresentation.pptx]([./PlanePerfectPresentation.pptx](https://github.com/IT320-PlanPerfect/PlanPerfect/blob/main/PlanPerfectPresentation.pptx))
 
 ---
 ## 👥 Team
