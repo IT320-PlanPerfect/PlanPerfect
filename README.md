@@ -43,7 +43,7 @@ This project was developed as part of a university course under the supervision 
 - **Review Submission** — Leave and read service reviews to enhance the vendor network.
 
 ---
-##📂 Project Files
+## 📂 Project Files
 
 🖼️ [Presentation.pptx](Presentation.pptx)
 
@@ -51,7 +51,7 @@ This project was developed as part of a university course under the supervision 
   
 📄 [Website Pages](WebsitePages.zip)
 
-📊 [Questionnaire Results](QuestionnaireResults.pdf)
+📊 [Questionnaire Results](Questionaire Results.pdf)
 
 🗣️ [Interviews](Interviews.pdf)
 
