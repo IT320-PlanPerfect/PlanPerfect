@@ -43,6 +43,15 @@ This project was developed as part of a university course under the supervision 
 - **Review Submission** — Leave and read service reviews to enhance the vendor network.
 
 ---
+## 📽️ Demo
+
+🎬 Project Demo  
+[Made_in_Saudi.MP4](./link)
+
+🖼️ Project Presentation  
+[Made_in_Saudi_Presentation.pdf](./PlanePerfectPresentation.pptx)
+
+---
 ## 👥 Team
 
 This project was developed by:
