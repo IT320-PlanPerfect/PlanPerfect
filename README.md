@@ -43,13 +43,19 @@ This project was developed as part of a university course under the supervision 
 - **Review Submission** — Leave and read service reviews to enhance the vendor network.
 
 ---
-## 📽️ Demo
+##📂 Project Files
 
 🎬 Project Demo  
-[PlanePerfect.MP4](./link)
+[PlanePerfectDemo.MP4](PlanePerfectDemo.MP4)
 
 🖼️ Project Presentation  
 [PlanePerfectPresentation.pptx](PlanPerfectPresentation.pptx)
+
+📝 Project Report  
+[PlanePerfectReport.pdf](PlanPerfectReport.pdf)
+
+📄 Website Pages
+[PlanePerfectReportWebsite](PlanPerfectReport.pdf)
 
 ---
 ## 👥 Team
