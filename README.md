@@ -45,15 +45,15 @@ This project was developed as part of a university course under the supervision 
 ---
 ## 📂 Project Files
 
-- 🖼️ [Presentation](Presentation.pptx)
+- [Presentation](Presentation.pptx)
 
-- 📝 [Report](Report.pdf)
+- [Report](Report.pdf)
   
-- 📄 [Website Pages](WebsitePages.zip)
+- [Website Pages](WebsitePages.zip)
 
-- 📊 [Questionnaire Results](Questionaire.pdf)
+- Questionnaire Results](Questionaire.pdf)
 
-- 🗣️ [Interviews Summary](Interviews.pdf)
+- [Interviews Summary](Interviews.pdf)
 
 ---
 ## 👥 Team
