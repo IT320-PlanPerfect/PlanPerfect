@@ -27,9 +27,9 @@ This project was developed as part of a university course under the supervision 
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (NoSQL)  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP
+- **Database:** MySQL (managed via phpMyAdmin)
 - **Hosting:** GitHub Pages (Frontend), Cloud Hosting (Backend)  
 - **Project Management:** Jira
 
