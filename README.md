@@ -1,4 +1,4 @@
-# 📅 PlanPerfect — Event Planning Platform
+# 🌐 PlanPerfect — Event Planning Platform
 
 **Date:** April 2025  
 **Tech:** React.js, Node.js, MongoDB
