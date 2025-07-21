@@ -49,7 +49,7 @@ This project was developed as part of a university course under the supervision 
 
 - [Report](Report.pdf)
   
-- [Website Pages](WebsitePages)
+- [Website Pages](WebsitePages.zip)
 
 - [Questionnaire Results](Questionaire.pdf)
 
