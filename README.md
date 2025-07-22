@@ -45,6 +45,8 @@ This project was developed as part of a university course under the supervision 
 ---
 ## 📂 Project Files
 
+- [Demo](Demo.mp4)
+
 - [Presentation](Presentation.pptx)
 
 - [Report](Report.pdf)
