@@ -16,12 +16,12 @@ This project was developed as part of a university course under the supervision 
 
 ## 🌟 Key Features
 
-- Search and filter event vendors by category, location, and price.  
+- Search and filter event vendors by event type, category, location, and price.  
 - Book services directly through the platform.  
 - View verified ratings and reviews from other users.  
 - Save favorite items for quick future access.  
+-	Vendor dashboards to manage listings, update items, and view customer feedback
 - Secure authentication for both users and vendors.  
-- Fully responsive design for desktop and mobile devices.
 
 ---
 
