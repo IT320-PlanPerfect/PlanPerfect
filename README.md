@@ -1,7 +1,7 @@
 # 🌐 PlanPerfect — Event Planning Platform
 
 **Date:** April 2025  
-**Tech:** React.js, Node.js, MongoDB
+**Tech:** HTML, CSS, JavaScript, PHP, MySQL (phpMyAdmin), Jira
 
 ---
 
