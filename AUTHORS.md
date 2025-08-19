@@ -9,18 +9,18 @@
    - Student ID: 444200948  
 
 2. **Reuof Alanazi**  
-   - Role: Developed the following pages: Services.html, signup.html, and login.html
+   - Role: Developed the following pages: Services.html, signup.html, and login.html. Contributed to User Acceptance Testing
    - Student ID: 444200528 
 
 3. **Jood Alkhrashi**  
-   - Role: Developed the following pages: cart.html, PreviosOrders.html, and CustomerHomepage.html
+   - Role: Developed the following pages (front-end): cart.html, PreviousOrders.html, and CustomerHomepage.html. Integrated backend development with the database.
    - Student ID: 444203007  
 
 4. **Tarfah Bin Moammar**  
-   - Role: Authored the report and took charge of the following sections: 4.1 System Architecture , 4.2 Class Diagram , and 4.5 Interface Design.
+   - Role: Authored the report and took charge of the following sections: 4.1 System Architecture , 4.2 Class Diagram , and 4.5 Interface Design. Contributed to User Acceptance Testing and Integration Testing.
    - Student ID: 444200611   
 
 5. **Ghala Musallam**  
-   - Role: Authored the report and took charge of the following sections: 4.3 Data Design , 4.4 Components Design, and 4.5 Interface Design.
-   - Student ID: 444200807  
+   - Role: Authored the report and led sections 4.3 Data Design, 4.4 Components Design, and 4.5 Interface Design. Integrated backend development with the database and updated the front-end interface.
+   - Student ID: 444200807 
 
